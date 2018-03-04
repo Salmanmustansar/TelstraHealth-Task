@@ -1,0 +1,20 @@
+Have created complete database Script
+
+Have created 3 pages in Angular
+1- Login Page
+http://localhost/HospitalMIS-master/index.html#!/login
+
+2- Welcome page also shows Register User Page
+
+Not completed 
+--------------
+1- Patients add page but they can check I have implemented user registration (Add functionality)
+2- Patients List view Page (All registered user can be displayed on welcome page)
+
+Was planning to add proper authorization and Authentication, once can see my database script for details, I have added role-permission based tables
+
+
+
+
+
+
